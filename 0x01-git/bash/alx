@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ALX School"
+echo "ALX is so cool!"
 ^C
 root@8b34b7a001e1:/alx-pre_course/0x01-git/bash# clear
 root@8b34b7a001e1:/alx-pre_course/0x01-git/bash# cat > school
